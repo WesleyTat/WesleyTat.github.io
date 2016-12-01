@@ -1,2 +1,3 @@
 name: Wesley Tat, high school student
 markdown: Potato
+permalink: /blog/:year/:month/:day/:title
