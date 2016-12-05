@@ -20,11 +20,17 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    border-style: solid;
+    border-color: #40E0D0;
+    border-width: 15px;
     color: blue;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    border-style: solid;
+    border-color: #40E0D0;
+    border-width: 15px;
     font-size: 1.5em;
     line-height: 1.4em;
     color: blue;
