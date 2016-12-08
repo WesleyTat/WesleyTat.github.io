@@ -5,6 +5,7 @@ body {
     background-color:#1E1E24;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: 1920px 1080px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
