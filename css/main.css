@@ -1,8 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color:#1E1E24
-    background: url("http://wfiles.brothersoft.com/b/bakuman-wallpaper_149113-1920x1080.jpg") no-repeat top center;
+    Background: url("http://wfiles.brothersoft.com/b/bakuman-wallpaper_149113-1920x1080.jpg") no-repeat top center;
+    background-color:#1E1E24;
     background-size: contain;
     background-attachment: fixed;
 }
