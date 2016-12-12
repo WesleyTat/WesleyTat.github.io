@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: url("http://vignette2.wikia.nocookie.net/no-game-no-life/images/d/db/NGNL_V1_006.jpg/revision/latest/scale-to-width-down/2000?cb=20140501125910")  no-repeat center;
+    background: url("http://i1.wallpaperscraft.com/image/tennis_balls_sports_79984_1920x1080.jpg")  no-repeat center;
     background-color:#1E1E24;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -30,7 +30,7 @@ h1 {
     border-width: 15px;
     color: blue;
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Times New Roman', 'Arial', 'Sans-Serif';
 }
 p {
     border-style: solid;
