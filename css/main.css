@@ -51,6 +51,7 @@ p2{
     border-width: 12px;
     font-size: 5.0em;
     color: blue;
+    text-align: center;
 }
 footer {
     border-top: 1px solid #d5d5d5;
