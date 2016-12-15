@@ -23,7 +23,8 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #FFFFFF;
+    color: #00ffdf;
+    
 }
 a:hover {
     text-decoration: underline;
@@ -38,7 +39,7 @@ h1 {
 }
 p {
     border-style: solid;
-    border-color: #7df442;
+    border-color: #40E0D0;
     border-width: 12px;
     font-size: 1.5em;
     line-height: 1.4em;
@@ -68,15 +69,15 @@ ul.posts li {
 }
 .pictures {
     padding:1px;
-   border:5px solid #40E0D0;
+   border:5px solid #7df442;
 }
 img{
     max-width: 100%;
     max-height: 100%;
 }
 .Rackets {
-    width: 900px;
-   height: 5000px; 
+    width: 2400px;
+   height: 1200px; 
 }
 
     
