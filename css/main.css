@@ -38,7 +38,7 @@ h1 {
 }
 p {
     border-style: solid;
-    border-color: #40E0D0;
+    border-color: #7df442;
     border-width: 12px;
     font-size: 1.5em;
     line-height: 1.4em;
@@ -47,7 +47,7 @@ p {
 }
 .p2{
     border-style: solid;
-    border-color: #40E0D0;
+    border-color: #7df442;
     border-width: 12px;
     font-size: 5.0em;
     color: blue;
@@ -70,10 +70,13 @@ ul.posts li {
     padding:1px;
    border:5px solid #40E0D0;
 }
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
 .Rackets {
-    width: 500px ;
-    height: 1200px;
-        
+    width: 500px;
+   height: 1200px; 
 }
 
     
