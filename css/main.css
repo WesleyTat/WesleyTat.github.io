@@ -45,6 +45,13 @@ p {
     color: blue;
     background-image: url("https://games.openmandriva.org/wp-content/uploads/2015/05/hc6k-Custom.png") no-repeat top center;
 }
+p2{
+    border-style: solid;
+    border-color: #74f442;
+    border-width: 12px;
+    font-size: 5.0em;
+    color: blue;
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
