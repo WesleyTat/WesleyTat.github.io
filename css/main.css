@@ -84,8 +84,11 @@ img{
     max-height: 100%;
 }
 .Rackets {
+    border-style: solid;
+    border-color: #7df442;
+    border-width: 12px;
     text-align: center;
-    width: 1200px; 
+    width: 1450px; 
 }
 
     
