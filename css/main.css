@@ -29,7 +29,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
+h2 {
     border-style: solid;
     border-color: #40E0D0;
     border-width: 15px;
@@ -37,16 +37,14 @@ h1 {
     font-size: 3em;
     font-family:'Times New Roman', 'Arial', 'Sans-Serif';
 }
-h2 {
+h1 {
     text-align: center;
-    border-style: solid;
-    border-color: #40E0D0;
-    border-width: 15px;
     color: #FFFFFF;
     font-size: 6em;
     font-family:'Times New Roman', 'Arial', 'Sans-Serif';
 }
 p {
+    font-family:'Arial', 'Times New Roman', 'Sans-Serif';
     border-style: solid;
     border-color: #40E0D0;
     border-width: 12px;
