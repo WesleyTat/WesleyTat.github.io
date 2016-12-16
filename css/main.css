@@ -38,12 +38,13 @@ h2 {
     font-family:'Times New Roman', 'Arial', 'Sans-Serif';
 }
 h1 {
-    font-size: 15px;
+    font-size: 6em;
     text-align: center;
     color: #FFFFFF;
     font-family:'Times New Roman', 'Arial', 'Sans-Serif';
 }
 p {
+    background-color: #FFFBCC;
     font-family:'Arial', 'Times New Roman', 'Sans-Serif';
     border-style: solid;
     border-color: #40E0D0;
