@@ -38,6 +38,7 @@ h2 {
     font-family:'Times New Roman', 'Arial', 'Sans-Serif';
 }
 h1 {
+    box-shadow: 0 0 1em 1em #ccc;
     font-size: 6em;
     text-align: center;
     color: #FFFFFF;
