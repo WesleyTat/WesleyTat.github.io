@@ -42,7 +42,8 @@ h1 {
     font-size: 6em;
     text-align: center;
     color: #FFFFFF;
-    font-family:'Times New Roman', 'Arial', 'Sans-Serif';
+    font-family:'Lobster', 'Times New Roman', 'Arial', 'Sans-Serif', cursive;
+};
 }
 p {
   display: block;
