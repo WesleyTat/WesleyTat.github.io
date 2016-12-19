@@ -44,8 +44,6 @@ h1 {
     font-family:'Times New Roman', 'Arial', 'Sans-Serif';
 }
 p {
-   width: 600px;
-  height: 120px;
   display: block;
   position: relative;
   overflow: hidden; 
