@@ -46,11 +46,6 @@ h1 {
 };
 }
 p {
-  display: block;
-  position: relative;
-  overflow: hidden; 
-  margin: 0 auto;
-  background: black;
     background-color: #FFFD01;
     font-family:'Arial', 'Times New Roman', 'Sans-Serif';
     border-style: solid;
