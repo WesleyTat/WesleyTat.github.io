@@ -43,6 +43,13 @@ h1 {
     color: #FFFFFF;
     font-family:'Times New Roman', 'Arial', 'Sans-Serif';
 }
+@keyframes slidein{
+    0%   {top: 0px;}
+    25%  {top: 200px;}
+    50%  {top: 100px;}
+    75%  {top: 200px;}
+    100% {top: 0px;}
+}
 p {
     animation-duration: 3s;
      animation-name: slidein;
