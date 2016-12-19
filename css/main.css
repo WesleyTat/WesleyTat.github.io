@@ -38,6 +38,9 @@ h2 {
     font-family:'Times New Roman', 'Arial', 'Sans-Serif';
 }
 h1 {
+       animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
     font-size: 6em;
     text-align: center;
     color: #FFFFFF;
