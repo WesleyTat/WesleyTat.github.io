@@ -49,3 +49,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.tournaments{
+       font-size: 3em;
+    font-family: 'Time News Roman', 'Arial', 'Garamond', 'Sans-Serif';
+    color: rgba(0, 255, 255, 0.6);
+    text-align: center;
+}
+
