@@ -1,1 +1,30 @@
-
+*{
+box-sizing: border-box;
+}
+body {
+    margin: 60px auto;
+    width: 70%;
+    background: url("http://i1.wallpaperscraft.com/image/tennis_balls_sports_79984_1920x1080.jpg")  no-repeat center;
+    background-color:#1E1E24;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1920px 1080px;
+}
+nav ul, footer ul {
+    font-family:'Garamond', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #00ffdf;
+    
+}
+a:hover {
+    text-decoration: underline;
+}
