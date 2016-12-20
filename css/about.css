@@ -33,8 +33,14 @@ h1 {
     font-size: 6em;
     text-align: center;
     color: #FFFFFF;
-    font-family:'Lobster', 'Times New Roman', 'Arial', 'Sans-Serif', cursive;
+    font-family:'Lobster', cursive, 'Times New Roman', 'Arial', 'Sans-Serif';
 };
+h2 {
+    font-size: 3em;
+    font-family: 'Time News Roman', 'Arial', 'Garamond', 'Sans-Serif';
+    color: rgba(0, 255, 255, 0.6);
+    
+}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
