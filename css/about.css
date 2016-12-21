@@ -54,8 +54,7 @@ li{
    color: rgba(0, 255, 255, 0.9);
 }
 .lis{
-    font-size:5em;
-    color: rgba(88, 255, 0, 0.9);
+    font-size:1.5em;
 }
 .Paragraph{
        font-size: 3em;
@@ -64,6 +63,7 @@ li{
     text-align: center;
 }
 .Tournaments{
+    color: rgba(88, 255, 0, 0.9);
     text-align: center;
 }
 @-webkit-keyframes hvr-buzz {
