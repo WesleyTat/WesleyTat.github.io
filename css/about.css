@@ -50,8 +50,12 @@ ul.posts li {
     list-style: none;
 }
 li{ 
-   font-size: 2em;
+   font-size: 1.5em;
    color: rgba(0, 255, 255, 0.9);
+}
+.lis{
+    font-size:1.5em;
+    color: rgba(88, 255, 0, 0.9);
 }
 .Paragraph{
        font-size: 3em;
