@@ -55,6 +55,8 @@ ul.posts li {
     color: rgba(0, 255, 255, 0.6);
     text-align: center;
 }
+.Tournaments{
+    text-align: center;
 @-webkit-keyframes hvr-pulse {
   25% {
     -webkit-transform: scale(1.1);
