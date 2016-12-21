@@ -49,6 +49,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+li{ 
+    font-size: 2em
+}
 .Paragraph{
        font-size: 3em;
     font-family: 'Time News Roman', 'Arial', 'Garamond', 'Sans-Serif';
