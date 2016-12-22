@@ -58,6 +58,16 @@ li{
     text-align: right;
     color: rgba(215, 0, 0, 0.9);
 }
+.US{
+      font-size:1.5em;
+    text-align: right;
+    color: rgba(215, 0, 0, 0.9);
+}
+.Wim{
+      font-size:1.5em;
+    text-align: right;
+    color: rgba(215, 0, 0, 0.9);  
+}
 .Paragraph{
        font-size: 3em;
     font-family: 'Time News Roman', 'Arial', 'Garamond', 'Sans-Serif';
