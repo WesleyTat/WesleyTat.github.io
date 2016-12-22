@@ -53,29 +53,20 @@ li{
    font-size: 1.5em;
    color: rgba(0, 255, 255, 0.9);
 }
-#ATP{
+.ATP{
     float:left;
-}
-#US{
-     float:left;
-}
-#Wimb{
-     float:left;
 }
 .lis{
     font-size:2.5em;
     text-align: right;
     color: rgba(215, 0, 0, 0.9);
+    margin-bottom: 100px
 }
 .US{
       font-size:2.5em;
     text-align: right;
     color: rgba(215, 0, 0, 0.9);
-}
-.Wim{
-      font-size:2.5em;
-    text-align: right;
-    color: rgba(215, 0, 0, 0.9);  
+    margin-bottom: 65px;
 }
 .Paragraph{
        font-size: 3em;
