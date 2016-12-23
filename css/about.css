@@ -56,13 +56,24 @@ li{
 .ATP{
     float:left;
 }
+
+.t {
+    display: table;
+}
+
 .lis{
     display: table-cell;
     vertical-align: middle;
+    
+}
+
+p {
+    display: table-cell;
+    vertical-align: center;
     font-size:2.5em;
     text-align: right;
     color: rgba(215, 0, 0, 0.9);
-    margin-bottom: 100px
+    
 }
 .US{
       font-size:2.5em;
