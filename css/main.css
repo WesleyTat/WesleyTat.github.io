@@ -63,6 +63,9 @@ p {
     color: blue;
     text-align: center;
 }
+ul{
+    font-size:1.5em;
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
