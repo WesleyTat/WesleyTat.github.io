@@ -61,11 +61,16 @@ p {
     border-width: 12px;
     background-color: #CCFFCC;
     font-size: 5.0em;
-    color: blue;
+    color: #ffffff;
     text-align: center;
+}
+player{
+    text-decoration: none;
+    list-style-type: none;
 }
 ul{
     font-size:1.5em;
+    list-style-type: none;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -75,10 +80,12 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    list-style-type: none;
 }
 
 ul.posts li {
     list-style: none;
+    list-style-type: none;
 }
 .pictures {
    padding:5px 5px 5px 5px;
