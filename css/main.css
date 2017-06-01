@@ -199,7 +199,7 @@ img{
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
 }
-.container{
+#container{
     background-color: #66ffff;
     color: #ffffff;
     }
