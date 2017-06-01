@@ -41,6 +41,7 @@ h1 {
     box-shadow: 0 0 0.5em 0.5em #ccc;
     font-size: 6em;
     text-align: center;
+    background-color: #00ffff;
     color: #FFFFFF;
     font-family:'Lobster', 'Times New Roman', 'Arial', 'Sans-Serif', cursive;
 };
