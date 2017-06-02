@@ -11,7 +11,7 @@ body {
     background-attachment: fixed;
     background-size: 1920px 1080px;
 }
-menu, ol, ul, li {
+ ol, ul, li {
     list-style: none;
 }
 
