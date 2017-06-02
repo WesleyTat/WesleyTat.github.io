@@ -11,6 +11,10 @@ body {
     background-attachment: fixed;
     background-size: 1920px 1080px;
 }
+menu, ol, ul, li {
+    list-style: none;
+}
+
 nav ul, footer ul {
     font-family:'Garamond', 'Arial', 'Sans-Serif';
     padding: 1px;
